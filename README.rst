@@ -1,9 +1,15 @@
 cookiecutter-simple-django
 ==========================
 
-A cookiecutter_ template for Django.
+This is a cookiecutter_ template for Django, forked from the original_ by Marco Fucci. 
+
+``Master`` branch adds the new Django 1.8 ``TEMPLATES`` setting.  
+``ric`` branch stores my personal flavor of the template. 
+
+Here follows the original Readme by Marco:
 
 .. _cookiecutter: https://github.com/audreyr/cookiecutter
+.. _original: https://github.com/marcofucci/cookiecutter-simple-django
 
 Description
 -----------
